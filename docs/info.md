@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+VGA Checker template was modified by reversing the direction & changing the default colors
 
 ## How to test
 
-Explain how to use your project
+Test the same way you would test the normal VGA Checker implementation (connect to VGA display and see if it displays the desired graphics)
 
 ## External hardware
 
